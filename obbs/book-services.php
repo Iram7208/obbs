@@ -7,6 +7,7 @@ if (strlen($_SESSION['obbsuid']==0)) {
   } else{
     if(isset($_POST['submit']))
   {
+	  
   	$bid=$_GET['bookid'];
   	$uid=$_SESSION['obbsuid'];
  $bookingfrom=$_POST['bookingfrom'];
