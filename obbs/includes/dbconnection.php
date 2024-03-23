@@ -2,7 +2,7 @@
 // DB credentials.
 define('DB_HOST','sqlserver7208.mysql.database.azure.com');
 define('DB_USER','iram@sqlserver7208');
-define('DB_PASS','Afroz@7208');
+define('DB_PASS','Afroz7208@');
 define('DB_NAME','obbs');
 // Establish database connection.
 try
