@@ -104,6 +104,15 @@ foreach($results as $row)
 						</div>
 					</div>
 				</div>
+
+				<div class="col-md-6 wthree-bottom-grid">
+					<div class="w3-agileits-bottom-left">
+						<div class="w3-agileits-bottom-left-text">
+							<h3>WE HAVE THE BEST SERVICES YOU NEED</h3>
+							<p>We have all the services you need and we have the experts team so you can just enjoy the Day.</p>
+						</div>
+					</div>
+				</div>
 				<div class="clearfix"> </div>
 			</div>
 		</div>
